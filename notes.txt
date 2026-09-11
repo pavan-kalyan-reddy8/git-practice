@@ -1,1 +1,2 @@
 My first Git and GitHub practice!
+git push and pull
